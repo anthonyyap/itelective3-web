@@ -7,3 +7,7 @@
 3. Node <img src="https://user-images.githubusercontent.com/93513050/209304583-b7642424-6668-48d3-96a0-f5cc2bbe47dc.png" width="80" alt="Node logo">  
 
 ## Hospital Queue System
+A hospital queue system helps manage the order in which patients are to be served or accommodated by staff personnel in a hospital. Moreover, it could potentially also give an estimate as to how long each patient has to wait before their turn. With the use of this system, hospital services are able to be kept well-ordered. Overall, the system has four entities, namely, system admin, queue admin, queue operator, and queue client. Each of these entities has their own distinct, but also, limited role to play within the system in order to ensure that the whole operation runs smoothly.
+
+## List of possible sub-systems
+1. 
