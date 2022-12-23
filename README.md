@@ -10,6 +10,6 @@
 A hospital queue system helps manage the order in which patients are to be served or accommodated by staff personnel in a hospital. Moreover, it could potentially also give an estimate as to how long each patient has to wait before their turn. With the use of this system, hospital services are able to be kept well-ordered. Overall, the system has four entities, namely, system admin, queue admin, queue operator, and queue client. Each of these entities has their own distinct, but also, limited role to play within the system in order to ensure that the whole operation runs smoothly.
 
 ## List of possible sub-systems
-1. Registration system - registers hospitals and an admin assigned to a particular hospital
-2. Queue creation and management system - allows the user to create a queue and manage it 
-3. Feedback system - informs the user of their position in the queue
+* Registration system - registers hospitals and an admin assigned to a particular hospital
+* Queue creation and management system - allows the user to create a queue and manage it 
+* Feedback system - informs the user of their position in the queue
